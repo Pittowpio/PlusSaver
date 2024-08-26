@@ -7,4 +7,4 @@ class YoutubeVideResoloution(Enum):
     R_360P = '360p'
     R_480P = '480p'
     R_720P = '720p'
-    
+    R_1080P = '1080p'
