@@ -51,7 +51,7 @@ class Youtube(BaseDownloader):
         
         >>> Youtube('url').download_video(resolution=YoutubeVideResoloution.R_144P.value)
         or
-        >>> Youtube('url').download_video(resolution='720p')
+        >>> Youtube('url').download_video(resolution='1080p')
 
         Args:
             resolution (Optional[str], optional): _description_. Defaults to "144p".
