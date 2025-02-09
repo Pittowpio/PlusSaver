@@ -3,13 +3,13 @@
 
 class BotConfig:
     SESSION_NAME = "YoutubeGaelanSession"
-    API_ID = 21211216
-    API_HASH = "7404d8663463075dfd564027f32810fc"
-    BOT_TOKEN = "6019956632:AAFHRc_PRuD8FFTfDBP4AJefb0zqnabOJt4"
-    BOT_USERNAME = "youtube_gaelan_bot"  # Without @, example Folabetbot
-    DEFULT_ADMINS_USER_ID = {5283609058, }
-    CREATOR_USER_ID = 5283609058
-    SUPPORT_USERNAME = "Jarrare" # without @, example Jarrae
+    API_ID = 24555496
+    API_HASH = "c542f4edb157f63f5ac0fc77ca8e05a5"
+    BOT_TOKEN = "7037652477:AAFo0wFsm-cG5YjbpLpzfyTlrk4myodsowE"
+    BOT_USERNAME = "@alllsavebot"  # Without @, example Folabetbot
+    DEFULT_ADMINS_USER_ID = {1088599147, }
+    CREATOR_USER_ID = 1088599147
+    SUPPORT_USERNAME = "test1208009" # without @, example Jarrae
     REFERRAL_IMAGE_ADDRESS = r"./images/referral.png"
     DEFULT_SUPPORT_CHANNEL_URL = "t.me/Gae1an" # url form, not username
     DONATE = "https://t.me/krdst0re"
